@@ -11,4 +11,12 @@
 
 ![](bio-lanier.md){.include}
 
+# Η περίπτωση τoυ Cisco Webex
+
+![](cs-Webex.md){.include}
+
+## Σύντομη βιογραφία του Nicholas Negroponte
+
+![](bio-Negroponte.md){.include}
+
 ## Βιβλιογραφία
