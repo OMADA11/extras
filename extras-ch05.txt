@@ -3,6 +3,10 @@
 
 ![](cs-facebook.md){.include}
 
+## Η περίπτωση του Webex
+
+![](cs-Webex.md){.include}
+
 ## Η περίπτωση της συναισθηματικής ευχρηστίας
 
 ![](cs-affective.md){.include}
@@ -10,10 +14,6 @@
 ## Σύντομη βιογραφία του Jaron Lanier
 
 ![](bio-lanier.md){.include}
-
-## Η περίπτωση του Webec 
-
-![](cs-Webex.md){.include}
 
 ## Σύντομη βιογραφία του Nicholas Negroponte
 
