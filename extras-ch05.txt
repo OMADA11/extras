@@ -11,4 +11,12 @@
 
 ![](bio-lanier.md){.include}
 
+## Η περίπτωση του Webec 
+
+![](cs-Webex.md){.include}
+
+## Σύντομη βιογραφία του Nicholas Negroponte
+
+![](bio-Negroponte.md){.include}
+
 ## Βιβλιογραφία
