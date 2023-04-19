@@ -7,8 +7,16 @@
 
 ![](cs-wikipedia.md){.include}
 
+## Η περίπτωση του Blender
+
+![](cs-blender.md){.include}
+
 ## Σύντομη βιογραφία του Ted Nelson
 
 ![](bio-nelson.md){.include}
+
+## Σύντομη βιογραφία του Ton Roosendaal
+
+![](bio-ton-roosendaal.md){.include}
 
 ## Βιβλιογραφία

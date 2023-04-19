@@ -7,13 +7,13 @@
 
 ![](cs-affective.md){.include}
 
+## Η περίπτωση τoυ Cisco Webex
+
+![](cs-Webex.md){.include}
+
 ## Σύντομη βιογραφία του Jaron Lanier
 
 ![](bio-lanier.md){.include}
-
-# Η περίπτωση τoυ Cisco Webex
-
-![](cs-Webex.md){.include}
 
 ## Σύντομη βιογραφία του Nicholas Negroponte
 
